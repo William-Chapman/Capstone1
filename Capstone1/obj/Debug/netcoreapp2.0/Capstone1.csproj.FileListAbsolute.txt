@@ -1,0 +1,11 @@
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\obj\Debug\netcoreapp2.0\Capstone1.csprojAssemblyReference.cache
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\obj\Debug\netcoreapp2.0\Capstone1.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\obj\Debug\netcoreapp2.0\Capstone1.AssemblyInfoInputs.cache
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\obj\Debug\netcoreapp2.0\Capstone1.AssemblyInfo.cs
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\bin\Debug\netcoreapp2.0\Capstone1.deps.json
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\bin\Debug\netcoreapp2.0\Capstone1.runtimeconfig.json
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\bin\Debug\netcoreapp2.0\Capstone1.runtimeconfig.dev.json
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\bin\Debug\netcoreapp2.0\Capstone1.dll
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\bin\Debug\netcoreapp2.0\Capstone1.pdb
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\obj\Debug\netcoreapp2.0\Capstone1.dll
+C:\Users\Rachel\source\repos\Capstone1\Capstone1\obj\Debug\netcoreapp2.0\Capstone1.pdb
